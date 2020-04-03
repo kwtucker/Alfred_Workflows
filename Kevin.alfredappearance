@@ -1,0 +1,60 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 8,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#B0BEC6FF",
+        "font" : "System Light",
+        "color" : "#ECEFF235"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FF7D78FF",
+        "font" : "System",
+        "color" : "#FF7D78FF"
+      },
+      "backgroundSelected" : "#36464FFF",
+      "text" : {
+        "size" : 13,
+        "colorSelected" : "#ECEFF2FF",
+        "font" : "System",
+        "color" : "#8C969CB2"
+      },
+      "iconPaddingHorizontal" : 5,
+      "paddingVertical" : 3,
+      "iconSize" : 40
+    },
+    "separator" : {
+      "color" : "#FFFFFF00",
+      "thickness" : 1
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#36464FFF",
+      "spacing" : 8,
+      "text" : {
+        "size" : 64,
+        "colorSelected" : "#000000FF",
+        "font" : "System Light",
+        "color" : "#ECEFF2FF"
+      },
+      "backgroundSelected" : "#FFBAB8FF"
+    },
+    "scrollbar" : {
+      "color" : "#ECEFF226",
+      "thickness" : 2
+    },
+    "name" : "Kevin",
+    "window" : {
+      "color" : "#253138CA",
+      "paddingHorizontal" : 8,
+      "width" : 464,
+      "borderPadding" : 14,
+      "borderColor" : "#26323900",
+      "blur" : 0,
+      "roundness" : 9,
+      "paddingVertical" : 9
+    }
+  }
+}
